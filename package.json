@@ -1,0 +1,23 @@
+{
+  "name": "se2202-001-tutorial3",
+  "version": "1.0.0",
+  "description": "In this tutorial you'll practice working with JS object.",
+  "main": "Tutorial_3.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yan297/SE2202-001-Tutorial3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yan297/SE2202-001-Tutorial3/issues"
+  },
+  "homepage": "https://github.com/yan297/SE2202-001-Tutorial3#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
